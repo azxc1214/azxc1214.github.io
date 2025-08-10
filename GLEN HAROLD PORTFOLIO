@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio ni [glenharoldgamboa@gmail.com]</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; }
+    h1, h2 { color: #2c3e50; }
+    .section { margin-bottom: 40px; }
+    a { color: #2980b9; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Portfolio ni [glenharoldgamboa@gmail.com]</h1>
+  
+  <div class="section" id="bio">
+    <h2>About Me</h2>
+    <p>Insert mo dito yung maiksing intro tungkol sa sarili mo, skills mo, at experience mo.</p>
+  </div>
+  
+  <div class="section" id="work">
+    <h2>Sample Works</h2>
+    <ul>
+      <li><a href="https://youtu.be/samplevideo1" target="_blank">Video Edit Example 1</a></li>
+      <li><a href="https://youtu.be/samplevideo2" target="_blank">Video Edit Example 2</a></li>
+    </ul>
+  </div>
+  
+  <div class="section" id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:emailmo@example.com">emailmo@example.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/username" target="_blank">linkedin.com/in/username</a></p>
+  </div>
+</body>
+</html>
